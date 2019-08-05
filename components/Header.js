@@ -9,6 +9,9 @@ const Header = () => {
           <NavLink href="/speakers">Speakers</NavLink>
         </NavItem>
         <NavItem>
+          <NavLink href="/schedule">Schedule</NavLink>
+        </NavItem>
+        <NavItem>
           <NavLink href="/about">About</NavLink>
         </NavItem>
       </Nav>
