@@ -4,7 +4,6 @@ import Layout from '../components/layout'
 
 const index = () =>
   <Layout>
-    <div>
       <Jumbotron className="mb-0">
         <h1 className="display-3">Welcome!</h1>
         <p className="lead">
@@ -30,7 +29,6 @@ const index = () =>
           <Button color="primary">Learn More</Button>
         </p>
       </Jumbotron>
-    </div>
   </Layout>;
 
 export default index;

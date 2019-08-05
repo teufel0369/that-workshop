@@ -3,7 +3,7 @@ import { Nav, Navbar, NavbarBrand, NavItem, NavLink } from 'reactstrap'
 
 const Header = () =>
   <Navbar color="light" light expand="md">
-    <NavbarBrand href="/">NEXT</NavbarBrand>
+    <NavbarBrand href="/">THAT Conference 2019</NavbarBrand>
     <Nav className="ml-auto" navbar>
       <NavItem>
         <NavLink href="/schedule">Schedule</NavLink>
