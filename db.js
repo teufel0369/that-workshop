@@ -10,7 +10,8 @@ module.exports = () => ({
       company: "Headway",
       avatar: `${avatarUrl}matt`,
       biography: "Matt is a coding ninja.",
-      email: "matt@headway.io"
+      email: "matt@headway.io",
+      description: "knows a lot of react"
     },
     {
       id: "2",
@@ -20,7 +21,8 @@ module.exports = () => ({
       company: "Headway",
       avatar: `${avatarUrl}tim`,
       biography: "Tim is a coding wizard.",
-      email: "tim@headway.io"
+      email: "tim@headway.io",
+      description: "knows a lot of JS"
     }
   ]
 });
